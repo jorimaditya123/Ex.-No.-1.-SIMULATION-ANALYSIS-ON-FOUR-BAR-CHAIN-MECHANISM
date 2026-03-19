@@ -53,10 +53,12 @@
 
 
 ## Output:
+ ![Image Alt](https://github.com/jorimaditya123/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/blob/5cc2db989ce2ee60bbe40e1918b764c3d2b9378b/562032265-d3409792-4467-4b45-87c7-5c09320a6ff3.png)
+  ![Image Alt](https://github.com/jorimaditya123/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/blob/5cc2db989ce2ee60bbe40e1918b764c3d2b9378b/562032295-4f6e0400-a09b-422a-80cc-c0d64bbfff18.png)
+   ![Image Alt](https://github.com/jorimaditya123/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/blob/5cc2db989ce2ee60bbe40e1918b764c3d2b9378b/562032340-fe58557a-5fd3-4fcb-aadf-19d67f6d3eed.png)
 
-
-### Name:
-### Register Number: 
+### Name: Aditya Jorim F S
+### Register Number: 212225240004
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
